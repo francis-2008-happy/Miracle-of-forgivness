@@ -17,7 +17,7 @@ export default function Header() {
             rel="noopener noreferrer"
             className="text-sm text-black-600 hover:text-black-800 dark:text-black-400 dark:hover:text-black-200"
           >
-            The Built by Francis Happy
+            Built by Francis Happy
           </a>
           <img
             className="h-[24px] w-[24px] rounded-sm"
