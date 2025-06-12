@@ -6,18 +6,18 @@ export default function Header() {
   return (
     <div className="flex items-center justify-between p-2 px-4">
       <div className="flex items-center gap-2">
-        <Sparkles className="size-4" />
-        <h1 className="font-semibold">LlamaIndex App</h1>
+        <Sparkles className="size-10" />
+        <h1 className="font-bold,">Miracle of Forgiveness </h1>
       </div>
       <div className="flex items-center justify-end gap-4">
         <div className="flex items-center gap-2">
           <a
-            href="https://www.llamaindex.ai/"
+            href="https://www.churchofjesuschrist.org"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+            className="text-sm text-black-600 hover:text-black-800 dark:text-black-400 dark:hover:text-black-200"
           >
-            Built by LlamaIndex
+            The Built by Francis Happy
           </a>
           <img
             className="h-[24px] w-[24px] rounded-sm"
